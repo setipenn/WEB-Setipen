@@ -1,0 +1,6 @@
+{
+  "name": "VocaSMK - Gamified Vocational English",
+  "description": "Aplikasi gamifikasi pembelajaran kosakata Bahasa Inggris untuk siswa SMK Indonesia dengan kuis interaktif, materi per jurusan, leaderboard, dan AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
